@@ -1,7 +1,0 @@
-n =int(input)
-for x in range(n):
-    a = int(input())
-    if (a>=7):
-        print("Yes")
-    else:
-        print("No")
